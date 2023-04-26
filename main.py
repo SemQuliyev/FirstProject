@@ -1,1 +1,1 @@
-print("Seymur")
+print("Ttt")
